@@ -9,3 +9,13 @@ Create an e-commerce platform where users can buy and sell eco-friendly products
 Product listings with eco-labels, user reviews and ratings, seller profiles, Chatbot for users doubt regarding the platform (MULTI-LANGUAGE-SUPPORTED), payment gateway integration, and shipment tracking.
 ###  Technologies: 
 React for frontend, Node.js and Express for backend API, MongoDB for product and user data, integration with Stripe or PayPal for payments.
+
+### Future Technoligies to be implemented:
+Community and Social Features:  
+Add community features such as forums or groups where users can discuss eco-friendly practices, share tips, and review products.  
+Eco-Footprint Calculator:  
+Integrate an eco-footprint calculator that allows users to see the environmental impact of their purchases. This feature can help users make more informed decisions and promote eco-friendly products.  
+Localized Eco-News and Tips:  
+Integrate a feed for localized news and tips on eco-friendly living. This can include blog posts, articles, and tips based on the user's location.
+Implementation: Use a content management system (CMS) like WordPress or an API like NewsAPI to fetch relevant content.
+
