@@ -1,7 +1,4 @@
 # SustainMart
-Backend-learning Summer 2024
-
-
 ## Eco-Friendly Marketplace
 ###  Description: 
 Create an e-commerce platform where users can buy and sell eco-friendly products, promote sustainability, and educate consumers on environmental impact.
